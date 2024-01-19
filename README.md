@@ -1,1 +1,2 @@
-# CPP-PROGRAMMING-OPP
+# cppprogramming
+Standard and Competitive C++ Codes.
