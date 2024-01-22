@@ -44,7 +44,7 @@ static int classNumber = 10;
 int main()
 {
     
-    Demo obj;
+    Demo  obj;
     obj.displayCount();
     Demo obj2, obj3;
     obj.getNumbers();
