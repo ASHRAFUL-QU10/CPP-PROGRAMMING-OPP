@@ -86,7 +86,7 @@ void printList(Node* ptr)
 // Graph Implementation in C++ without using STL
 int main()
 {
-	// array of graph edges as per above diagram.
+	// array of graph edges as per the above diagram.
 	Edge edges[] =
 	{
 		// pair (x, y) represents edge from x to y
@@ -97,7 +97,7 @@ int main()
 	// Number of vertices in the graph
 	int N = 6;
 
-	// calculate number of edges
+	//Calculate the number of edges
 	int n = sizeof(edges)/sizeof(edges[0]);
 
 	// construct graph
