@@ -1,8 +1,8 @@
 /*High Radius Tech Track Coding
 Set A
-Q. You're a coach at a local university, there are n students under you, the programming skill of the i-th student is a[i]. Create a balanced team for a programming comp..
-Take in more students(increases probability of winning). Create a team with maximum no. of students but the overall skill difference shouldn't exceed 5.
-1st Line Consists of no. of students n and the next line programming skill of i-th student.
+Q. You're a coach at a local university, there are n students under you, and the programming skill of the i-th student is a[i]. Create a balanced team for a programming comp..
+Take in more students(increases the probability of winning). Create a team with a maximum no. of students but the overall skill difference shouldn't exceed 5.
+1st Line Consists of no. of students n and the next line is the programming skill of the student.
 
 Sample i/p-
 6
