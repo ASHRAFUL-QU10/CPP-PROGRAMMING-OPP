@@ -49,6 +49,7 @@ int main()
 {
 
     fast;
+	
 
     // Sum of a Vector
 
@@ -60,7 +61,7 @@ int main()
     // Code to Remove Spaces in Between
 
     /*
-    string s = "R  ah u l Bord     oloi";
+    string s = "R  ah u l Bord     color";
     cout<<s<<endl;
     // Method 1
     s.erase(remove_if(s.begin(), s.end(), ::isspace), s.end());
