@@ -40,6 +40,8 @@ class Demo{
 int Demo::count;
 static int classNumber = 10; 
 
+
+
 /*
 int main()
 {
