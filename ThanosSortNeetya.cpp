@@ -3,7 +3,7 @@
 #define f(i,a,b) for(i=a;i<b;i++)
 #define fr(i,a,b) for(i=a;i>=b;i--)
 #define endl '\n'
-#define ll long long int
+#define ll long int
 #define ff first
 #define ss second
 #define pb push_back
