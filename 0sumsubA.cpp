@@ -54,6 +54,7 @@ main()
        cin>>*(a+i);
     maxzlen();
     cout<<"\nYour Array:\n";
+  
     f(i,0,n)
        cout<<*(a+i)<<sp;
     delete[] a;
