@@ -81,3 +81,6 @@ int main(){
         cout<<"i = "<<i<<" =  "<<arr[i]<<endl;
     }
 }
+
+
+//ASHRAFUL QU10
