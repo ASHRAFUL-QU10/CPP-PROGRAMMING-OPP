@@ -154,3 +154,4 @@ int main()
 {
 	check2();
 }
+//qu10
