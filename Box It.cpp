@@ -154,4 +154,4 @@ int main()
 {
 	check2();
 }
-//qu10
+//ashrafulqu10 
