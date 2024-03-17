@@ -10,3 +10,4 @@ main()
     cout<<n<<endl;
     puts(a);
 }
+//qu10
