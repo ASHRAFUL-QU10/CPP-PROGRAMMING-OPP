@@ -39,6 +39,7 @@ class Demo{
 
 int Demo::count;
 static int classNumber = 10; 
+//qu10
 
 
 
