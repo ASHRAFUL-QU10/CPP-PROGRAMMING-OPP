@@ -60,3 +60,4 @@ main()
     delete[] a;
     cout<<"\nThe Max Length is :"<<maxzlen();
 }
+//qu10
