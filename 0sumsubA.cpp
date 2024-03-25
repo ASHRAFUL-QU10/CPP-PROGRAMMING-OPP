@@ -57,6 +57,7 @@ main()
   
     f(i,0,n)
        cout<<*(a+i)<<sp;
+  
     delete[] a;
     cout<<"\nThe Max Length is :"<<maxzlen();
 }
