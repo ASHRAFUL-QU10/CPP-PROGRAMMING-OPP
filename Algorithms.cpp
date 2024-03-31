@@ -278,8 +278,9 @@ int main()
     cout<<"Char : "<<typeid((char)x).name()<<endl;
     cout<<"String : "<<typeid(to_string(x)).name()<<endl;
     */
-	//ashrafulqu10
+	
     
     cerr<<"TIME : "<<(float)clock() / CLOCKS_PER_SEC<<" seconds"<<endl;
     return 0;
 }
+//ashrafulqu10
