@@ -60,3 +60,4 @@ int main()
     cin>>s;
 	cout<<alt(t,s);
 }
+//qu10
