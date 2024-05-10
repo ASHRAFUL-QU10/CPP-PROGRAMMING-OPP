@@ -18,3 +18,4 @@ freopen("input.txt", "r", stdin);
         tc-=1;
     }
 }
+
