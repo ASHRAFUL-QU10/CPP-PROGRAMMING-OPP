@@ -19,3 +19,4 @@ freopen("input.txt", "r", stdin);
     }
 }
 
+//ashraful10
